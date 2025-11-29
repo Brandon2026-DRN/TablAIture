@@ -189,13 +189,6 @@ pipeline = TablAIturePipeline(
 - **torch**: Deep learning framework
 - **soundfile**: Audio I/O
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
 
 ## References
 
