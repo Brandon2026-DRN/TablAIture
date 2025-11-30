@@ -1,10 +1,10 @@
 # TablAIture
 
-An end-to-end AI-powered system that converts raw guitar audio into accurate guitar tablature using a deep, multi-stage processing pipeline.
+An end-to-end AI-powered system that converts raw guitar audio into accurate guitar tablature using a deep, multi-stage processing pipeline. Previously attained upwards of 5 Pull req & 15 stars, but privated due to Open-Sourced concerns.
 
 ## Features
 
-- **Multi-Stage Pipeline**: Preprocessing → Spectrogram Generation → F0 Detection → Neural Classification → Tablature Inference → Formatting
+- **Multi-Stage Pipeline**: Preprocessing to Spectrogram Generation to F0 Detection to Neural Classification to Tablature Inference to Formatting (structure)
 - **Multiple F0 Detection Methods**: YIN algorithm, autocorrelation, and peak picking
 - **Neural Note Classification**: CNN-based models for pitch, string, and onset detection
 - **Flexible Output Formats**: JSON, plain-text tablature, and MusicXML
