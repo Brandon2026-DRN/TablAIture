@@ -1,6 +1,8 @@
 # TablAIture
 
-An end-to-end AI-powered system that converts raw guitar audio into accurate guitar tablature using a deep, multi-stage processing pipeline. Previously attained upwards of 5 Pull req & 15 stars, but privated due to Open-Sourced concerns.
+An end-to-end AI-powered system that converts raw guitar audio into accurate guitar tablature using a deep, multi-stage processing pipeline. 
+
+# Previously attained upwards of 5 Pull req & 15 stars, but privated due to Open-Sourced concerns.
 
 ## Features
 
